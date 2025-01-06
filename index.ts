@@ -1,5 +1,1 @@
-// import './src/example/basic'
-// import './src/example/interesting'
-// import './src/example/movePath'
-// import './src/example/autoLayout'
-import './src/example/editor'
+import './src/example/renderCycle'
