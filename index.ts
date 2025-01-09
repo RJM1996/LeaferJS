@@ -1,1 +1,1 @@
-import './src/example/renderCycle'
+import './src/example/appDemo'
