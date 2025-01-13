@@ -19,7 +19,7 @@ const app = new App({
 
 const width = 512
 const height = 512
-function setTreePostion() {
+function setTreePosition() {
   // const horizontalPadding = 375
   // const verticalPadding = 88
 
@@ -88,7 +88,7 @@ app.tree.add(
   )
 )
 
-setTreePostion()
+setTreePosition()
 
 
 // 创建两个按钮，用于删除rect1和rect2
